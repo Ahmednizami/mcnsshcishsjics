@@ -12,6 +12,10 @@ for col in ['Experience', 'Education', 'Skills', 'JobTitle']:
     label_encoders[col] = LabelEncoder()
     df[col] = label_encoders[col].fit_transform(df[col])
 
+@app.get("/")
+def hello():
+    return "<b> Weolcome To Home Page of JMI AI Model </b>"
+
 @app.get("/api/model")
 def model_api():
     experience = request.form['experience'].lower()
