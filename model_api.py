@@ -13,7 +13,7 @@ for col in ['Experience', 'Education', 'Skills', 'JobTitle']:
     df[col] = label_encoders[col].fit_transform(df[col])
 
 @app.get("/")
-def hello():
+def home_page():
     return "<b> Weolcome To Home Page of JMI AI Model </b>"
 
 @app.get("/api/model")
