@@ -1,0 +1,211 @@
+Experience,Education,YearsExperience,Skills,JobTitle
+junior,bachelor,3,"problem solving, teamwork",software engineer
+mid,master,5,"leadership, communication",data analyst
+senior,phd,8,"problem solving, creativity",data scientist
+junior,bachelor,2,"attention to detail, time management",software engineer
+senior,master,10,"teamwork, communication",data scientist
+mid,bachelor,4,"creativity, communication",software engineer
+junior,master,3,"sales, customer service",data analyst
+senior,phd,7,"communication, teamwork",software engineer
+mid,bachelor,6,"problem solving, time management",data scientist
+junior,master,2,"leadership, creativity",data analyst
+senior,phd,9,"attention to detail, customer service",software engineer
+mid,bachelor,5,"sales, marketing",data scientist
+junior,master,3,"leadership, problem solving",software engineer
+senior,bachelor,7,"creativity, communication",data analyst
+mid,phd,6,"time management, attention to detail",data scientist
+junior,high school diploma,2,"problem solving, teamwork",customer service representative
+mid,associate,5,"leadership, communication",operations manager
+senior,bachelor,10,"problem solving, creativity",marketing manager
+junior,master,3,"attention to detail, customer service",sales representative
+senior,master,8,"sales, marketing",marketing manager
+mid,bachelor,6,"leadership, problem solving",operations manager
+junior,associate,2,"creativity, communication",graphic designer
+senior,bachelor,7,"time management, attention to detail",human resources specialist
+mid,master,5,"problem solving, teamwork",financial analyst
+junior,bachelor,3,"leadership, communication",event coordinator
+senior,phd,9,"problem solving, creativity",operations manager
+mid,bachelor,6,"attention to detail, time management",financial analyst
+junior,master,4,"teamwork, communication",content writer
+senior,bachelor,8,"creativity, communication",graphic designer
+mid,associate,5,"sales, customer service",customer service representative
+junior,bachelor,2,"teamwork, communication",software engineer
+mid,master,4,"creativity, communication",data analyst
+senior,phd,7,"sales, customer service",data scientist
+junior,bachelor,3,"leadership, creativity",software engineer
+senior,master,9,"attention to detail, customer service",data scientist
+mid,bachelor,5,"sales, marketing",software engineer
+junior,master,2,"leadership, problem solving",data analyst
+senior,phd,8,"creativity, communication",software engineer
+mid,bachelor,6,"time management, attention to detail",data scientist
+junior,master,3,"problem solving, teamwork",data analyst
+senior,phd,10,"leadership, communication",software engineer
+mid,bachelor,5,"problem solving, creativity",data scientist
+junior,master,3,"attention to detail, time management",software engineer
+senior,bachelor,8,"teamwork, communication",data analyst
+mid,phd,7,"creativity, communication",data scientist
+junior,high school diploma,2,"communication, teamwork",customer service representative
+mid,associate,5,"problem solving, time management",operations manager
+senior,bachelor,11,"leadership, creativity",marketing manager
+junior,master,4,"attention to detail, customer service",sales representative
+senior,master,9,"sales, marketing",marketing manager
+mid,bachelor,6,"leadership, problem solving",operations manager
+junior,associate,2,"creativity, communication",graphic designer
+senior,bachelor,8,"time management, attention to detail",human resources specialist
+mid,master,6,"problem solving, teamwork",financial analyst
+junior,bachelor,4,"leadership, communication",event coordinator
+senior,phd,10,"problem solving, creativity",operations manager
+mid,bachelor,7,"attention to detail, time management",financial analyst
+junior,master,5,"teamwork, communication",content writer
+senior,bachelor,9,"creativity, communication",graphic designer
+mid,associate,6,"sales, customer service",customer service representative
+junior,bachelor,3,"problem solving, teamwork",software engineer
+mid,master,5,"leadership, communication",data analyst
+senior,phd,8,"problem solving, creativity",data scientist
+junior,bachelor,4,"attention to detail, time management",software engineer
+senior,master,10,"teamwork, communication",data scientist
+mid,bachelor,6,"creativity, communication",software engineer
+junior,master,3,"sales, customer service",data analyst
+senior,phd,9,"time management, attention to detail",software engineer
+mid,bachelor,7,"problem solving, teamwork",data scientist
+junior,master,4,"leadership, communication",data analyst
+senior,phd,11,"problem solving, creativity",software engineer
+mid,bachelor,6,"attention to detail, time management",data scientist
+junior,master,4,"teamwork, communication",software engineer
+senior,bachelor,9,"creativity, communication",data analyst
+mid,phd,8,"leadership, problem solving",data scientist
+junior,high school diploma,3,"creativity, communication",customer service representative
+mid,associate,6,"time management, attention to detail",operations manager
+senior,bachelor,12,"problem solving, teamwork",marketing manager
+junior,master,5,"leadership, communication",sales representative
+senior,master,10,"problem solving, creativity",marketing manager
+mid,bachelor,7,"attention to detail, time management",operations manager
+junior,associate,3,"creativity, communication",graphic designer
+senior,bachelor,9,"time management, attention to detail",human resources specialist
+mid,master,7,"problem solving, teamwork",financial analyst
+junior,bachelor,5,"leadership, communication",event coordinator
+senior,phd,11,"problem solving, creativity",operations manager
+mid,bachelor,8,"attention to detail, time management",financial analyst
+junior,master,6,"teamwork, communication",content writer
+senior,bachelor,10,"creativity, communication",graphic designer
+mid,associate,7,"sales, customer service",customer service representative
+junior,bachelor,4,"teamwork, communication",software engineer
+mid,master,6,"creativity, communication",data analyst
+senior,phd,9,"sales, customer service",data scientist
+junior,bachelor,5,"leadership, creativity",software engineer
+senior,master,11,"attention to detail, customer service",data scientist
+mid,bachelor,7,"sales, marketing",software engineer
+junior,master,4,"leadership, problem solving",data analyst
+senior,phd,10,"creativity, communication",software engineer
+mid,bachelor,8,"time management, attention to detail",data scientist
+junior,master,5,"problem solving, teamwork",data analyst
+senior,phd,12,"leadership, communication",software engineer
+mid,bachelor,7,"problem solving, creativity",data scientist
+junior,master,5,"attention to detail, time management",software engineer
+senior,bachelor,10,"teamwork, communication",data analyst
+mid,phd,9,"creativity, communication",data scientist
+junior,high school diploma,4,"communication, teamwork",customer service representative
+mid,associate,7,"problem solving, time management",operations manager
+senior,bachelor,13,"leadership, creativity",marketing manager
+junior,master,6,"attention to detail, customer service",sales representative
+senior,master,11,"sales, marketing",marketing manager
+mid,bachelor,8,"leadership, problem solving",operations manager
+junior,associate,4,"creativity, communication",graphic designer
+senior,bachelor,10,"time management, attention to detail",human resources specialist
+mid,master,8,"problem solving, teamwork",financial analyst
+junior,bachelor,6,"leadership, communication",event coordinator
+senior,phd,12,"problem solving, creativity",operations manager
+mid,bachelor,9,"attention to detail, time management",financial analyst
+junior,master,7,"teamwork, communication",content writer
+senior,bachelor,11,"creativity, communication",graphic designer
+mid,associate,8,"sales, customer service",customer service representative
+junior,bachelor,5,"attention to detail, time management",software engineer
+mid,master,7,"teamwork, communication",data analyst
+senior,phd,10,"creativity, communication",data scientist
+junior,bachelor,6,"sales, customer service",software engineer
+senior,master,12,"time management, attention to detail",data scientist
+mid,bachelor,8,"problem solving, teamwork",software engineer
+junior,master,5,"leadership, communication",data analyst
+senior,phd,11,"problem solving, creativity",software engineer
+mid,bachelor,9,"attention to detail, time management",data scientist
+junior,master,6,"teamwork, communication",data analyst
+senior,phd,13,"creativity, communication",software engineer
+mid,bachelor,8,"leadership, problem solving",data scientist
+junior,master,6,"creativity, communication",software engineer
+senior,bachelor,11,"time management, attention to detail",data analyst
+mid,phd,10,"problem solving, teamwork",data scientist
+junior,high school diploma,5,"leadership, communication",customer service representative
+mid,associate,8,"problem solving, time management",operations manager
+senior,bachelor,14,"leadership, creativity",marketing manager
+junior,master,7,"attention to detail, customer service",sales representative
+senior,master,12,"sales, marketing",marketing manager
+mid,bachelor,9,"leadership, problem solving",operations manager
+junior,associate,5,"creativity, communication",graphic designer
+senior,bachelor,11,"time management, attention to detail",human resources specialist
+mid,master,9,"problem solving, teamwork",financial analyst
+junior,bachelor,7,"leadership, communication",event coordinator
+senior,phd,13,"problem solving, creativity",operations manager
+mid,bachelor,10,"attention to detail, time management",financial analyst
+junior,master,8,"teamwork, communication",content writer
+senior,bachelor,12,"creativity, communication",graphic designer
+mid,associate,9,"sales, customer service",customer service representative
+junior,bachelor,6,"problem solving, teamwork",software engineer
+mid,master,8,"leadership, communication",data analyst
+senior,phd,11,"problem solving, creativity",data scientist
+junior,bachelor,7,"attention to detail, time management",software engineer
+senior,master,13,"teamwork, communication",data scientist
+mid,bachelor,9,"creativity, communication",software engineer
+junior,master,6,"sales, customer service",data analyst
+senior,phd,12,"time management, attention to detail",software engineer
+mid,bachelor,10,"problem solving, teamwork",data scientist
+junior,master,7,"leadership, communication",data analyst
+senior,phd,14,"problem solving, creativity",software engineer
+mid,bachelor,10,"attention to detail, time management",data scientist
+junior,master,7,"teamwork, communication",software engineer
+senior,bachelor,12,"creativity, communication",data analyst
+mid,phd,11,"leadership, problem solving",data scientist
+junior,high school diploma,6,"creativity, communication",customer service representative
+mid,associate,9,"time management, attention to detail",operations manager
+senior,bachelor,15,"problem solving, teamwork",marketing manager
+junior,master,8,"leadership, communication",sales representative
+senior,master,13,"problem solving, creativity",marketing manager
+mid,bachelor,11,"attention to detail, time management",operations manager
+junior,associate,6,"creativity, communication",graphic designer
+senior,bachelor,12,"time management, attention to detail",human resources specialist
+mid,master,10,"problem solving, teamwork",financial analyst
+junior,bachelor,8,"leadership, communication",event coordinator
+senior,phd,14,"problem solving, creativity",operations manager
+mid,bachelor,11,"attention to detail, time management",financial analyst
+junior,master,9,"teamwork, communication",content writer
+senior,bachelor,13,"creativity, communication",graphic designer
+mid,associate,10,"sales, customer service",customer service representative
+junior,bachelor,7,"communication, teamwork",software engineer
+mid,master,9,"problem solving, time management",data analyst
+senior,phd,12,"leadership, creativity",data scientist
+junior,bachelor,8,"attention to detail, customer service",software engineer
+senior,master,14,"sales, marketing",data scientist
+mid,bachelor,10,"leadership, problem solving",software engineer
+junior,master,7,"creativity, communication",data analyst
+senior,phd,13,"time management, attention to detail",software engineer
+mid,bachelor,11,"problem solving, teamwork",data scientist
+junior,master,8,"leadership, communication",data analyst
+senior,phd,15,"problem solving, creativity",software engineer
+mid,bachelor,11,"attention to detail, time management",data scientist
+junior,master,8,"teamwork, communication",software engineer
+senior,bachelor,13,"creativity, communication",data analyst
+mid,phd,12,"sales, customer service",data scientist
+junior,high school diploma,7,"communication, teamwork",customer service representative
+mid,associate,10,"problem solving, time management",operations manager
+senior,bachelor,16,"leadership, creativity",marketing manager
+junior,master,9,"attention to detail, customer service",sales representative
+senior,master,14,"sales, marketing",marketing manager
+mid,bachelor,12,"leadership, problem solving",operations manager
+junior,associate,7,"creativity, communication",graphic designer
+senior,bachelor,14,"time management, attention to detail",human resources specialist
+mid,master,11,"problem solving, teamwork",financial analyst
+junior,bachelor,9,"leadership, communication",event coordinator
+senior,phd,15,"problem solving, creativity",operations manager
+mid,bachelor,12,"attention to detail, time management",financial analyst
+junior,master,10,"teamwork, communication",content writer
+senior,bachelor,14,"creativity, communication",graphic designer
+mid,associate,11,"sales, customer service",customer service representative
