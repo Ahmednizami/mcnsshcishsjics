@@ -19,9 +19,11 @@ def home_page():
 @app.get("/api/model")
 def model_api():
     experience = request.form['experience'].lower()
-    education = request.form['education'].lower().removesuffix("'s")
+    education = request.form['education'].lower()
     yearofexperience = request.form['yearofexperience']
     skills = request.form['skills'].lower()
+    if "'s" in education:
+        education = education[:-2]
     
     new_data = {"Experience": experience, "Education": education, "YearsExperience": int(yearofexperience), "Skills": skills}
 
