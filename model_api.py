@@ -30,5 +30,5 @@ def model_api():
     new_data_array = [[new_data['Experience'], new_data['Education'], new_data['YearsExperience'], new_data['Skills']]]
     loaded_model = joblib.load('model.pkl')
     predicted_job_title = label_encoders['JobTitle'].inverse_transform(loaded_model.predict(new_data_array))[0]
-    job_title = f"Predicted Job Title: {predicted_job_title.title()}"
+    job_title = {"job_title": predicted_job_title.title()}
     return job_title
