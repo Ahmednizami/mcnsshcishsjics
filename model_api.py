@@ -32,3 +32,6 @@ def model_api():
     predicted_job_title = label_encoders['JobTitle'].inverse_transform(loaded_model.predict(new_data_array))[0]
     job_title = {"job_title": predicted_job_title.title()}
     return job_title
+
+if __name__ == "__main__":
+    app.run(debug=False)
