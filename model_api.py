@@ -16,7 +16,7 @@ for col in ['Experience', 'Education', 'Skills', 'JobTitle']:
 def model_api():
     experience = request.form['experience'].lower()
     education = request.form['education'].lower().removesuffix("'s")
-    yearofexperience = request.form['yearofexperience'].lower()
+    yearofexperience = request.form['yearofexperience']
     skills = request.form['skills'].lower()
     
     new_data = {"Experience": experience, "Education": education, "YearsExperience": int(yearofexperience), "Skills": skills}
